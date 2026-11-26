@@ -2,7 +2,8 @@
   <img src="docs/assets/hero.png" alt="Day 13 Lab: đọc point cloud VF và vẽ cuboid 3D đầu tiên" width="100%">
 </p>
 
-# Day 13 Lab — Đọc point cloud VF và vẽ cuboid 3D đầu tiên
+# Day 13 Lab — 2A202603122 - Võ Khắc Xuân Nguyên
+
 
 <p align="center">
   <img alt="cá nhân" src="https://img.shields.io/badge/lab-cá%20nhân-0b1f3a">
